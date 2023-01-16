@@ -151,5 +151,18 @@
             "birthDate": "2002-10-11"
         }
     ]
-
+    "matches": [
+        {
+            "id": 1,
+            "home": "Real Madrid",
+            "away": "Bacelona",
+            "date": "Saturday, January 14 2023"
+        },
+        {
+            "id": 2,
+            "home": "Real Madrid",
+            "away": "Villarreal",
+            "date": "Sunday, January 15 2023"
+        }
+    ]
 }
